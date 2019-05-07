@@ -1,4 +1,4 @@
-# Scripts computing tolls (for METROPOLIS web interface )
+# Scripts (for using METROPOLIS web)
 scripts that are useful for using the metropolis web version:
 1. calibration\
 comparing field departure times and simulated departure times\
