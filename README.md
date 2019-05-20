@@ -8,3 +8,5 @@ comparing field flow and simulated flow
 computing cordon toll\
 computing per-km toll\
 computing fine toll
+3. run\
+taking screenshots of simulation setting, user group setting and downloading the current policy file\
